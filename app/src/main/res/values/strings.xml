@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Karpool</string>
+    <string name="Txt_username">Username or Phone Number</string>
+    <string name="Txt_password">Password</string>
+
+</resources>
